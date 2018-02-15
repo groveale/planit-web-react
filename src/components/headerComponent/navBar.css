@@ -1,0 +1,55 @@
+header {
+    display: block;
+    background-color: white;
+    width: 100%;
+    height: 50px;
+
+  }
+#headerButtons {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: inline;
+  float: none;
+}
+.navButton {
+  float: right;
+}
+.navButtonLeft li {
+  display: block;
+  text-align: center;
+  float: left;
+}
+
+.navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+}
+
+.navbar li a {
+  display: block;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+  /* features: */
+  font-family: Avenir-Heavy;
+  color: #9B9B9B;
+}
+
+.navbar li a#downloadButton{
+  color: #50E3C2;
+}
+
+.navbar li a#planitText{
+  color: #1D4262;
+}
+
+.navbar li img{
+  margin: 12px;
+  height: 25px;
+  width: 25px;
+}
+

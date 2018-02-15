@@ -1,0 +1,32 @@
+.why {
+    color: #9B9B9B;
+    background: white;
+    text-align: center;
+    font-family: Avenir-Medium;
+    font-size: 14px;
+}
+
+.whyItem {
+    margin: 30px 15px;
+}
+.why-container {
+    margin-top: 50px;
+}
+
+.whyTitle {
+    /* view social availabi: */
+    font-family: Avenir-Heavy;
+    font-size: 18px;
+    color: #1D4262;
+}
+
+.whyImage {
+    max-width: 200px;
+    max-height: 120px;
+}
+
+.whySpan {
+    margin-top: 30px;
+    align-items: center;
+    min-height: 20px;
+}

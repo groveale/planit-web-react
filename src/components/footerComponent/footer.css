@@ -1,0 +1,103 @@
+/* Global Styles */
+
+footer {
+    color: white;
+    /* background: gold; */
+    text-align: center;
+  }
+
+h1 {
+    font-family: Avenir-Heavy;
+    font-size: 28px;
+    color: #1D4262;
+    /* Line: */
+    border-bottom: 2px solid #979797;
+    padding-bottom: 5px;
+    display: inline;
+}
+
+.content-wrap {
+    max-width: 90%;
+    margin: 0 auto;
+    padding: 50px;
+  }
+
+/*  Whats Stopping Styles */
+
+.bottomBorder {
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    border-bottom: 2px solid #979797;
+}
+.whats-stopping {
+    margin-top: 50px;
+}
+
+.whats-stopping p {
+    /* Well…? your answer s: */
+    font-family: Avenir-Medium;
+    font-size: 16px;
+    color: #9B9B9B;
+}
+
+.button {
+    background-color: transparent;
+    border: 2px solid #979797;
+    border-radius: 10px;
+    color: #9B9B9B;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: Avenir-Heavy;
+    font-size: 12px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.button:hover {
+    color: #4A90E2;
+    border-color: #4A90E2;
+}
+
+/* Footer Nav Styles */
+
+.footer-nav {
+    text-align: center;
+}
+
+.footer-nav a {
+    /* background: white; */
+    padding: 5px;
+    display: inline-block;
+    margin: 2px;
+    text-decoration: none;
+    font-family: Avenir-Heavy;
+    font-size: 16px;
+    color: #9B9B9B;
+}
+
+.footer-nav a:hover {
+    color: #4A90E2;
+  }
+
+/* Copyright Styles */
+
+.copyright {
+    align-items: center
+}
+
+.copyright img {
+    width: 15px;
+    display: inline-block;
+    margin: 0 15px;
+}
+   
+.copyright p {
+    
+    /* background: wheat; */
+    display: inline-block;
+    font-family: Avenir-Heavy;
+    font-size: 10px;
+    color: #9B9B9B;
+}

@@ -1,0 +1,56 @@
+.reviews {
+    color: white;
+    background: #1D4262;
+    text-align: center;
+}
+
+.reviews h1 {
+    font-family: Avenir-Heavy;
+    font-size: 28px;
+    color: white;
+    /* Line: */
+    border-bottom: 2px solid #979797;
+    padding-bottom: 5px;
+    display: inline;
+}
+.reviews p {
+    /* “by far the best app: */
+    font-family: Avenir-Medium;
+    font-size: 16px;
+    color: #FFFFFF;
+}
+
+.reviewControl {
+    margin-top: 30px;
+    align-items: center;
+    min-height: 20px;
+    display: inline-flex;
+}
+
+.changeReview {
+    width: 20px;
+    margin: 0 20px;
+}
+
+.reviewCounter {
+    width: 11px;
+    opacity: 0.5;
+    color: #D8D8D8;
+    margin: 0 7px;
+}
+
+.reviewCounter.active {
+    opacity: 0.74;
+    color: #FFFFFF;
+}
+
+.commentAuthor {
+    font-style: italic;
+}
+
+.reviewItem {
+    margin-top: 50px;
+}
+
+
+
